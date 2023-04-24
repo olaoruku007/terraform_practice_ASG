@@ -1,0 +1,8 @@
+#The following files are not to be tracked!
+
+#Local terraform directories.
+.terraform/*
+
+#state files
+*.tfstate
+*.tfstate.backup
